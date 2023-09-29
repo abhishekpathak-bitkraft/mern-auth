@@ -1,0 +1,11 @@
+{
+    "email_address":"Email address",
+    "password":"Password",
+    "name":"name",
+    "forgot_password":"Forgot Password",
+    "dont_have_an_account_Sing_Up": "Don't have an account? Sign Up",
+    "already_have_an_account_Sing_In": "Already have an account? Sign In",
+    "login":"Login",
+    "register":"Register",
+    "logout":"Logout"
+}

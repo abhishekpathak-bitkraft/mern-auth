@@ -1,0 +1,11 @@
+{
+    "email_address":"मेल पता",
+    "password":"पासवर्ड",
+    "name":"नाम",
+    "forgot_password":"पासवर्ड भूल गए",
+    "dont_have_an_account_Sing_Up": "कोई खाता नहीं है? साइन अप करें",
+    "already_have_an_account_Sing_In": "क्या आपके पास पहले से एक खाता मौजूद है? दाखिल करना",
+    "login":"लॉग इन",
+    "register":"रजिस्टर पेज",
+    "logout":"लॉग आउट"
+}

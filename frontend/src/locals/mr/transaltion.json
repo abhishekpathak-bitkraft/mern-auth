@@ -1,0 +1,10 @@
+{
+    "email_address":"Email address",
+    "password":"Password",
+    "name":"name",
+    "forgot_password":"Forgot Password",
+    "dontt_have_an_account_Sing_Up": "dont't have an account? Sing Up",
+    "already_have_an_account_Sing_In": "Already have an account? Sing In",
+    "login":"login",
+    "register":"register"
+}
